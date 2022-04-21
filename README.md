@@ -7,7 +7,7 @@ You can look to the Wiki Page for learn more about this.
 
 ## Tools
 
-This are some tools used for development and production:
+These are some tools used for development and production:
 - [Git](https://) - Code version manager
 - [VsCode](https://code.visualstudio.com/) - Code editor
 - [SublimeText](https://www.sublimetext.com/3) - Text editor
@@ -16,7 +16,7 @@ This are some tools used for development and production:
 
 ## Languages and Frameworks
 
-To develop our products we use some languages as `Javascript`, `Typescript` and frameworks like:
+To develop our products we use some languages such as `Javascript`, `Typescript` and frameworks like:
 - [NodeJS](https://nodejs.org)
 - [ReactJS](https://reactjs.org)
 - [ReactNative](https://reactnative.dev)
@@ -33,7 +33,8 @@ Some of our projects use the following code structures:
 
 ## Places to learn
 
-There are same places where you can learn about these technologies like websites, youtube videos, etc...
+There are some places where you can learn about these technologies like websites, youtube videos, etc...
+Here are some that we recommend you to take a look at:
 
 - [Rocketseat Channel](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Content about NodeJS, React and React Native.
 - [MDN](https://developer.mozilla.org/) - Javascript documentation
